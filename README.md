@@ -1,7 +1,5 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
-
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
 
 1) Implementation period 3 weeks. In the company on the position of an intern flutter developer, full-time.
@@ -10,3 +8,6 @@ Implementation of the visual part in the work on the project to receive the good
 4) There was a difficulty when displaying a flashing effect for two widgets at once, as a result, it visually works fine, but the error has not been fixed
 4) This assembly did not include Refactoring
 5) Also in the final part of the project, I made a full adaptive, but the entire archive was deleted. Adaptive for all screens is not here.
+
+[![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
+
