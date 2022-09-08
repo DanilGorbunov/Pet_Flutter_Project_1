@@ -1,6 +1,6 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Watch the video](https://scontent.fbts9-1.fna.fbcdn.net/v/t39.30808-6/300578848_487627843372169_8874141145238855445_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=rtZAL-bVYTAAX8Z5tPX&_nc_ht=scontent.fbts9-1.fna&oh=00_AT9JvmO6mjvDDyeC6wXBQ9os4Pgm5ChOHLvcgh4B2aeVbg&oe=631FE285)]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/0yrAIc6i8g4?feature=share))
+[![Watch the video](https://www.project-video.org/wp-content/uploads/2022/03/PVlogo_Original_Web.png)]([https://youtu.be/vt5fpE0bzSY](https://youtube.com/shorts/0yrAIc6i8g4?feature=share))
 
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
 
