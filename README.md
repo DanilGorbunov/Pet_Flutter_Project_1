@@ -1,6 +1,6 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Video on youtube](https://www.facebook.com/linkprojectsltd/)](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
+[![Video on youtube](https://www.facebook.com/linkprojectsltd)](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
 
 
 
