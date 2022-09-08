@@ -1,6 +1,8 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtube.com/shorts/XdDUQLIdCv0?feature=share)
+
+
 
 
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
