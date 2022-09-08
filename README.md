@@ -13,7 +13,7 @@ Watch the video by clicking on the image below
 
 
 
-[<img alt="alt_text" width="40px" src="/assets/images/screen_1.png" />](https://www.google.com/)
+[<img alt="alt_text" width="300px" src="/assets/images/screen_1.png" />](https://youtube.com/shorts/0yrAIc6i8g4)
 
 [![Watch the video](
 <img src="/assets/images/screen_1.png" width="300" height="450">)](https://youtube.com/shorts/0yrAIc6i8g4)
