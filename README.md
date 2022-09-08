@@ -1,6 +1,6 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Watch the video](https://www.project-video.org/wp-content/uploads/2022/03/PVlogo_Original_Web.png)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://www.project-video.org/wp-content/uploads/2022/03/PVlogo_Original_Web.png)]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/0yrAIc6i8g4))
 
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
 
