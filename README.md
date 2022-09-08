@@ -9,5 +9,8 @@ Implementation of the visual part in the work on the project to receive the good
 4) This assembly did not include Refactoring
 5) Also in the final part of the project, I made a full adaptive, but the entire archive was deleted. Adaptive for all screens is not here.
 
-[![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
+Watch the video by clicking on the image below
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+[![Watch the video](/assets/images/screen_1.png =250x250)](https://youtube.com/shorts/0yrAIc6i8g4)
 
