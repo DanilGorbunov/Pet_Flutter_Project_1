@@ -11,6 +11,6 @@ Implementation of the visual part in the work on the project to receive the good
 
 Watch the video by clicking on the image below
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
 [![Watch the video](/assets/images/screen_1.png =250x250)](https://youtube.com/shorts/0yrAIc6i8g4)
 
