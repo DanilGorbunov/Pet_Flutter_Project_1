@@ -13,5 +13,5 @@ Watch the video by clicking on the image below
 
 [![image](http://url.to/image.png "Title" {width=40px height=400px})](https://youtube.com/shorts/0yrAIc6i8g4)
 
-[![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
+
 
