@@ -11,7 +11,7 @@ Implementation of the visual part in the work on the project to receive the good
 
 Watch the video by clicking on the image below
 
-[![Watch the video](/assets/images/screen_1.png "Title" {width=40px height=400px})](https://youtube.com/shorts/0yrAIc6i8g4)
+[![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
 
 
 
