@@ -11,11 +11,11 @@ Implementation of the visual part in the work on the project to receive the good
 
 Watch the video by clicking on the image below
 
-<img src="/assets/images/screen_1.png" width="100" height="100">
+<img src="/assets/images/screen_1.png" width="300" height="450">
 
 [![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
 
-![test](https://github.com/favicon.ico)
+
 
 
 
