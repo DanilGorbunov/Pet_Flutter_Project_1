@@ -13,6 +13,8 @@ Watch the video by clicking on the image below
 
 [![Watch the video](/assets/images/screen_1.png)](https://youtube.com/shorts/0yrAIc6i8g4)
 
+![test](https://github.com/favicon.ico)
+
 
 
 
