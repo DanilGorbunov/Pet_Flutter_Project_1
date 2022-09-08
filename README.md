@@ -1,6 +1,6 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Video on youtube](/assets/images/readme.png)](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
+[![Video on youtube]([/assets/images/readme.png](https://m.facebook.com/creatorvidio13/))](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
 
 
 
