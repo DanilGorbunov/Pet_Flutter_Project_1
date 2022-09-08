@@ -1,8 +1,6 @@
 ![Optional Text](/assets/images/readme.png)
 
-[![Video on youtube]([/assets/images/readme.png](https://m.facebook.com/creatorvidio13/))](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
-
-
+[![Video on youtube]([<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtube.com/shorts/0yrAIc6i8g4?feature=share)
 
 
 Implementation of the visual part in the work on the project to receive the goods in the warehouse. Part of the code, logo and name have been removed for ethical reasons. NDA did not sign. There is only a part of the visual part without real data from the server.
